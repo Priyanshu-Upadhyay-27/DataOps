@@ -3,10 +3,10 @@ This repository is a structured, personal collection of Jupyter notebooks focuse
 
 The notebooks include both real-world datasets and illustrative examples to demonstrate:
 
-Data cleaning and transformation
+- Data cleaning and transformation
 
-Exploratory data analysis (EDA)
+- Exploratory data analysis (EDA)
 
-Creating effective and professional visualizations
+- Creating effective and professional visualizations
 
 Whether you're a beginner or someone refreshing core concepts, this repo serves as a practical resource to deepen your understanding of the Python data stack.
